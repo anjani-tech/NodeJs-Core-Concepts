@@ -1,0 +1,30 @@
+{
+    "message": "Movie fetched successfully",
+    "data": [
+        {
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "description": "The third book of the Harry Potter saga. Sirius Black becomes familia",
+            "releaseYear": 2005
+        },
+        {
+            "title": "Harry Potter and the Chamber of Secrets",
+            "description": "The second book of the Harry Potter saga. Harry Potter meets young Tom Riddle aka Lord Voldemort",
+            "releaseYear": 2003
+        },
+        {
+            "title": "Harry Potter and the Philosopher's Stone",
+            "description": "The first book of the Harry Potter saga. Harry Potter enrolls into Hogwarts, meets Ron Weasly and Hermoine Granger and Sir ALbus DumbelDore and Severus Snape.",
+            "releaseYear": 2001
+        },
+        {
+            "title": "Harry Potter and the Goblet of Fire",
+            "description": "The third book of the Harry Potter saga. Harry potter gets chosen as one of the candidates for strongest wizard in the tri cup",
+            "releaseYear": 2009
+        },
+        {
+            "title": "Harry Potter and the Half Blood Prince",
+            "description": "The third book of the Harry Potter saga. Harry finds that Snape is the half blood prince",
+            "releaseYear": 2013
+        }
+    ]
+}
